@@ -1,5 +1,6 @@
-#Live Link
-[Live](https://ecomexperttest-bakhtiaraleem.myshopify.com/)
+# Live Demo
+[Shopify Custom Theme](https://ecomexperttest-bakhtiaraleem.myshopify.com/)
+
 Password: demo
 
 # Dawn
