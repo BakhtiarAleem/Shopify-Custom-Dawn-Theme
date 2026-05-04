@@ -1,7 +1,7 @@
 # Live Demo
 [Shopify Custom Theme](https://ecomexperttest-bakhtiaraleem.myshopify.com/)
 
-Password: demo
+Password: letmein
 
 # Dawn
 
