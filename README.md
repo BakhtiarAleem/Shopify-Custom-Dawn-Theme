@@ -6,7 +6,7 @@ Password: letmein
 # Dawn
 
 
-# Customizer
+# Theme Customizer
 [Bakhtiar Aleem](https://www.bakhtiaraleem.live/)
 
 # For Shopify Development
